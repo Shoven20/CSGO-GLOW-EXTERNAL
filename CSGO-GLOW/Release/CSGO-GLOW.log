@@ -1,0 +1,9 @@
+﻿  CSGO-GLOW.cpp
+C:\Users\Burak\Desktop\CSGO-GLOW\CSGO-GLOW\CSGO-GLOW.cpp(41,68): warning C4305: 'bağımsız değişken': 'int' iken 'BYTE' olarak kesildi
+C:\Users\Burak\Desktop\CSGO-GLOW\CSGO-GLOW\CSGO-GLOW.cpp(41,53): warning C4309: 'bağımsız değişken': sabit değer kesildi
+  Kod üretiliyor
+  1 of 72 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Kodun üretilmesi tamamlandı
+  CSGO-GLOW.vcxproj -> C:\Users\Burak\Desktop\CSGO-GLOW\Release\CSGO-GLOW.exe
