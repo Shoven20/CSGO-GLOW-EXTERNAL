@@ -40,7 +40,7 @@ int main()
     SetWindowLong(hwnd, GWL_EXSTYLE, GetWindowLong(hwnd, GWL_EXSTYLE) | WS_EX_LAYERED);
     SetLayeredWindowAttributes(hwnd, 0, (255 * 100) / 50, LWA_ALPHA);
     std::cout << "\n\n  [+] COUNTER STRIKE : GLOBAL OFFENSIVE - GLOW CHEAT";
-    std::cout << "\n\n  [+] https://github.com/BurolF20";
+    std::cout << "\n\n  [+] https://github.com/Shoven20/CSGO-GLOW-EXTERNAL";
     std::cout << "\n\n  [+] Discord: Shoven#5688";
     const auto memory = Hafiza{ "csgo.exe" };
     const auto Hafizaa = Hafiza("csgo.exe");
