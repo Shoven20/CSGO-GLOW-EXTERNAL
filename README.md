@@ -1,1 +1,1 @@
-# CSGO-GLOW-EXTERNAL![unknown](https://user-images.githubusercontent.com/88746889/175832765-12b188e4-e4df-45cd-bec9-e2c825e204a7.png)
+![unknown](https://user-images.githubusercontent.com/88746889/175832781-19266396-1210-48f8-8aac-896287a0b130.png)
