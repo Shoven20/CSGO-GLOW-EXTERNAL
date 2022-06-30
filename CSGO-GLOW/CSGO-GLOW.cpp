@@ -1,4 +1,4 @@
-﻿#include "memory.h"
+#include "memory.h"
 #include <windows.h>
 #include <thread>
 #include <iostream>
@@ -6,11 +6,11 @@
 
 namespace offset
 {
-    constexpr ::std::ptrdiff_t LokalOyuncu = 0xDBB5CC;
+    constexpr ::std::ptrdiff_t LokalOyuncu = 0xDBF4CC;
     constexpr ::std::ptrdiff_t Takim = 0xF4;
     constexpr ::std::ptrdiff_t Bayrak = 0x104;
-    constexpr ::std::ptrdiff_t GostergeObjesi = 0x53206F8;
-    constexpr ::std::ptrdiff_t NesneListesi = 0x4DD7AEC;
+    constexpr ::std::ptrdiff_t GostergeObjesi = 0x5324588;
+    constexpr ::std::ptrdiff_t NesneListesi = 0x4DDB92C;
     constexpr ::std::ptrdiff_t GostergeIndexi = 0x10488;
 }
 int main()
